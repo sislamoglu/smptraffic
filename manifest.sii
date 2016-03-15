@@ -5,7 +5,7 @@ SiiNunit
 mod_package : .package_name {
 
     # Package version can be any string with any length.
-    package_version: "1.4"
+    package_version: "2.0"
 
     # Display name can be any string with any length.
     display_name: "SiSL's Mega Pack - Traffic Addon"
@@ -17,9 +17,9 @@ mod_package : .package_name {
     category[]: "ai_traffic"
 
     # Icon inside the root directory of the mod.
-    icon: "icon.jpg"
+    icon: "smptraffic.jpg"
 
     # Description file inside the root directory of the mod.
-    description_file: "mod_description.txt"
+    description_file: "smptraffic.txt"
 }
 }
